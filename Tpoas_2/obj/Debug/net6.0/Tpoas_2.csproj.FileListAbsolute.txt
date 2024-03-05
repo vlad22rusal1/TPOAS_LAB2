@@ -1,0 +1,15 @@
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\bin\Debug\net6.0\Tpoas_2.exe
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\bin\Debug\net6.0\Tpoas_2.deps.json
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\bin\Debug\net6.0\Tpoas_2.runtimeconfig.json
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\bin\Debug\net6.0\Tpoas_2.dll
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\bin\Debug\net6.0\Tpoas_2.pdb
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\obj\Debug\net6.0\Tpoas_2.csproj.AssemblyReference.cache
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\obj\Debug\net6.0\Tpoas_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\obj\Debug\net6.0\Tpoas_2.AssemblyInfoInputs.cache
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\obj\Debug\net6.0\Tpoas_2.AssemblyInfo.cs
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\obj\Debug\net6.0\Tpoas_2.csproj.CoreCompileInputs.cache
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\obj\Debug\net6.0\Tpoas_2.dll
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\obj\Debug\net6.0\refint\Tpoas_2.dll
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\obj\Debug\net6.0\Tpoas_2.pdb
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\obj\Debug\net6.0\Tpoas_2.genruntimeconfig.cache
+C:\Users\ЧАПАЛОХ\source\repos\Tpoas_2\Tpoas_2\obj\Debug\net6.0\ref\Tpoas_2.dll
